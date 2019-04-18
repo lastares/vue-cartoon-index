@@ -1,21 +1,16 @@
-# vue-lcacg-front2
+#### Vue Cartoon Demo
+此demo适合Vue入门，感兴趣的同学给个star,demo效果演示：http://vue.songyaofeng.com
+***
+- Cartoon Demo index
+![index](./cartoon-1.png)
+***
+- Cartoon Demo Series-1
+![index](./cartoon-2.png)
+***
+- Cartoon Demo Series-2
+![index](./cartoon-2.png)
 
-> A Vue.js project
+***
+😀😀😀💺后端程序员，闲时也写点前端的东西，😀😀😀
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#### 欢迎star

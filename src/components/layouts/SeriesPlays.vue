@@ -2,8 +2,8 @@
   <div class="container">
     <div class="col-md-12 series-play" style="margin-top: 10px;">
       <div class="series-play-head">
-        <img :src="series" class="series-img" alt="番剧">
-        <span>番剧</span>
+        <img :src="series" class="series-img" alt="最新">
+        <span>最新</span>
         <span style="float: right;margin-top:11px;">
               <!--<router-link :to="'/category/1'">更多>>></router-link>-->
             </span>
@@ -44,8 +44,8 @@
     </div>
     <div class="col-md-12 series-play">
       <div class="series-play-head">
-        <img :src="series" class="series-img" alt="番剧">
-        <span>番剧</span>
+        <img :src="series" class="series-img" alt="热映">
+        <span>热映</span>
         <span style="float: right;margin-top:11px;">
               <!--<router-link :to="'/category/1'">更多>>></router-link>-->
             </span>
